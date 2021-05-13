@@ -1,0 +1,13 @@
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.1\ArrayStack.exe
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.1\ArrayStack.deps.json
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.1\ArrayStack.runtimeconfig.json
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.1\ArrayStack.runtimeconfig.dev.json
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.1\ArrayStack.dll
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.1\ArrayStack.pdb
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.1\ArrayStack.csprojAssemblyReference.cache
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.1\ArrayStack.AssemblyInfoInputs.cache
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.1\ArrayStack.AssemblyInfo.cs
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.1\ArrayStack.csproj.CoreCompileInputs.cache
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.1\ArrayStack.dll
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.1\ArrayStack.pdb
+C:\Users\OP50501\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.1\ArrayStack.genruntimeconfig.cache
